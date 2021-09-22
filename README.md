@@ -16,3 +16,6 @@ Previous requests are shown in the history module, the maximum number of  displa
 result should be deleted). History should be available after reloading the page or mobile application.
 
 If there are results, the user should be able to press on the result and redirected to the GIT repo.
+
+# Link for github pages:
+https://daria-yermakova.github.io/github-search-app/
